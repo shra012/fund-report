@@ -1,0 +1,15 @@
+{
+  "name": "fund-report",
+  "version": "0.0.1",
+  "description": "Desktop application that helps visualise your investments",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": ["fund","desktop","electron"],
+  "author": "Shravankumar Nagarajan",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^25.4.0"
+  }
+}
