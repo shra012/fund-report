@@ -1,7 +1,7 @@
 {
   "name": "fund-report",
   "version": "0.0.1",
-  "description": "Desktop application that helps visualise your investments",
+  "description": "Desktop application that helps you visualise your investments",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
